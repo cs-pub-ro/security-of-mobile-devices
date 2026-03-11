@@ -17,9 +17,9 @@ An index of older Android vulnerabilities are [here](https://androidvulnerabilit
 
 ### Insecure Shop
 
-For this task we aim to replicate the exploitation of a vulnerable app named [InsecureShop](https://www.insecureshopapp.com/).
+For this task we aim to replicate the exploitation of a vulnerable app named [InsecureShop](https://github.com/hax0rgb/InsecureShop).
 
-Follow the instructions in the [Challenges page](https://docs.insecureshopapp.com/) or [this post](https://medium.com/@prnz_offl/exploring-common-vulnerabilities-in-android-insecure-logging-hardcoded-credentials-insecure-data-a3c9e0cb2611), collect all the vulnerabilities of the application and exploit them.
+Follow the instructions in [this post](https://medium.com/@prnz_offl/exploring-common-vulnerabilities-in-android-insecure-logging-hardcoded-credentials-insecure-data-a3c9e0cb2611), collect all the vulnerabilities of the application and exploit them.
 
 ### Damn Vulnerable Bank
 
